@@ -1,0 +1,21 @@
+{
+    "full_name": "Reza Dibaj",
+    "name": "Reza",
+    "current_role": "Professor/Instructor in Data Science",
+    "location": "Sudbury, Ontario, Canada",
+    "email": "reza.dibaj@cambriancollege.ca",
+    "linkedin": "linkedin.com/in/reza-dibaj",
+    "specialties": [
+      "Machine Learning",
+      "Data Science Applications",
+      "AI System Design and APIs"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "PhD in Computer Science",
+        "institution": "Toronto Metropolitan University",
+        "year": "2021"
+      }
+    ]
+  }

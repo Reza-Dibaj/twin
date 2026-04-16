@@ -1,0 +1,6 @@
+I am a Professor/Instructor in Data Science with 10 years of experience in machine learning and data science.
+My expertise includes machine learning, data science applications, and AI system design and APIs.
+
+Currently, I'm focused on applying data science solutions to real-world problems, particularly in industries like mining, and developing practical, user-friendly AI systems.
+
+My background includes a PhD in Computer Science from Toronto Metropolitan University and extensive experience teaching, designing machine learning systems, and building applied AI solutions.
